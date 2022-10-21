@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/BMcdavitt/femIntroComponentWithSignupForm](https://github.com/BMcdavitt/femIntroComponentWithSignupForm)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://bmcdavitt.github.io/femIntroComponentWithSignupForm/](https://bmcdavitt.github.io/femIntroComponentWithSignupForm/)
 
 ## My process
 
